@@ -5,6 +5,8 @@ Restaurant Revisited
 This app lets the user see the menu of a restaurant, add items to the order, delete items from the order and order the order and give an 
 estimated waiting time.
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/susannebink/susannebinkhorstpset5?branch=master)](https://bettercodehub.com/)
+
 <img src="doc/Screenshot_20171201-123902.png" alt="screenshot" width="400" height="500"/>
 <img src="doc/Screenshot_20171201-123910.png" alt="screenshot" width="400" height="500"/>
 <img src="doc/Screenshot_20171201-124142.png" alt="screenshot" width="400" height="500"/>
